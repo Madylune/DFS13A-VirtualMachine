@@ -8,6 +8,6 @@ Ce projet a été élaboré dans le cadre scolaire, il est donc possible qu'il n
 ## Comment bien l'utiliser ?
 1) Créez un dossier et placez le fichier **script.sh** à l'intérieur
 2) Ouvrir votre terminal et tapez la commande **bash script.sh**
-3) Lancez-vous guider ! ;)
+3) Laissez-vous guider ! ;)
 
 S'il y a des améliorations à apporter, n'hésitez pas à m'en faire part :)
