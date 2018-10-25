@@ -1,4 +1,4 @@
-# VIRTUAL MACHINE SCRIPT
+# VIRTUAL MACHINE INSTALLATION SCRIPT
 *by Julie*
 
 Ce script bash permet à l'utilisateur d'installer s'il souhaite Vagrant et/ou VirtualBox.
